@@ -1,0 +1,4 @@
+C:\Users\libreria6\Documents\Proyecto 1\Analizador\Debug\Analizador.vcxprojAssemblyReference.cache
+C:\Users\libreria6\Documents\Proyecto 1\Analizador\Debug\Analizador.Form1.resources
+C:\Users\libreria6\Documents\Proyecto 1\Analizador\Debug\Analizador.vcxproj.GenerateResource.cache
+C:\Users\libreria6\Documents\Proyecto 1\Analizador\Debug\Analizador.exe

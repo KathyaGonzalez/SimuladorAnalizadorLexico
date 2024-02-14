@@ -1,0 +1,6 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\libreria6\Documents\Proyecto 1\Analizador\Form1.h(287,11): warning C4551: la llamada a la función no tiene lista de argumentos
+C:\Users\libreria6\Documents\Proyecto 1\Analizador\Form1.h(259,1): warning C4102: 'cli': etiqueta sin referencia
+C:\Users\libreria6\Documents\Proyecto 1\Analizador\Form1.h(270,24): warning C4101: 'extras': variable local sin referencia
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Analizador.vcxproj -> C:\Users\libreria6\Documents\Proyecto 1\Analizador\Debug\Analizador.exe
